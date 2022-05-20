@@ -1,0 +1,26 @@
+ ************* Module assignment1
+ assignment1.py:3: convention (C0301, line-too-long, ) Line too long (316/100)
+ assignment1.py:16: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:21: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:22: convention (C0303, trailing-whitespace, ) Trailing whitespace
+ assignment1.py:23: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:27: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:29: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:30: warning (W0311, bad-indentation, ) Bad indentation. Found 4 spaces, expected 8
+ assignment1.py:35: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:36: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:37: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:38: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:39: warning (W0311, bad-indentation, ) Bad indentation. Found 4 spaces, expected 8
+ assignment1.py:40: convention (C0303, trailing-whitespace, ) Trailing whitespace
+ assignment1.py:43: convention (C0305, trailing-newlines, ) Trailing newlines
+ assignment1.py:15: convention (C0116, missing-function-docstring, eread) Missing function or method docstring
+ assignment1.py:15: warning (W0621, redefined-outer-name, eread) Redefining name 'pmid' from outer scope (line 35)
+ assignment1.py:26: convention (C0116, missing-function-docstring, efetch) Missing function or method docstring
+ assignment1.py:26: warning (W0621, redefined-outer-name, efetch) Redefining name 'pmid' from outer scope (line 35)
+ assignment1.py:9: convention (C0411, wrong-import-order, ) standard import "import sys" should be placed before "from Bio import Entrez"
+ 
+ -------------------------------------------------------------------
+ Your code has been rated at -0.53/10 (previous run: 5.81/10, -6.34)
+ 
+ 
